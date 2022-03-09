@@ -105,16 +105,58 @@ Spreadsheets seem to me to be the foundation of working with data. So imagine a 
 ## Spreadsheet Cheat Sheets
 Who *doesn't* love a good cheat sheet? I found quite a few:
 * [Google sheets cheat sheet ](https://support.google.com/a/users/answer/9300022)
+* [Excel keyboard shortcuts ](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f)
+* [Google Sheets Keyboard Shortcuts ](https://support.google.com/docs/answer/181110)
+* [Comprehensive List of Sheets functions](https://support.google.com/docs/table/25273?hl=en )
+* [Tips and tricks for working in sheets](https://www.benlcollins.com/spreadsheets/google-sheets-formulas-techniques/)- these are like hidden secrets that make things so much easier!
 
-[Excel keyboard shortcuts ](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f)
+## Files for Further Reading
+There is some readings that I have found to be so useful, that I saved the entire thing. However, it would be impractical to just paste all of that information into here, and I cannot add a file for you to download. So my workaround is I have added a page on my website where I can have files which you can download. I am going to add each of the following information filled files there, and so just [click this link](https://anniesanalytics.wixsite.com/annie-nelson/general-9) to go to the page where I am going to link to all of the following files. 
+<br> Go to where I have labeled "#2- Spreadsheets Files" to find these files.
+* How to use VLOOKUP in Sheets/Excel
+* Data cleaning functions in spreadsheets
+* How to access your changelog of your spreadsheet
+* Keyboard Shortcuts in Sheets cheatsheet
+* Using Pivot Tables 
+* Common Errors in Spreadsheets and How to Fix Them
 
-[Google Sheets Keyboard Shortcuts ](https://support.google.com/docs/answer/181110)
+### Problem Solving
+It is so frustrating to come up with an error in your sheet, especially when you are trying to teach yourself this stuff and there is nobody to help you. There are actually people out there to help you on the internet! But in the meantime, this may help you problem solve:
+* [When a formula doesn’t work ](https://www.benlcollins.com/spreadsheets/formula-parse-error/)
+* [How to correct a #Value! error](https://support.microsoft.com/en-us/office/how-to-correct-a-value-error-15e1b616-fbf2-4147-9c0b-0a11a20e409e) 
 
-[Comprehensive List of Sheets functions](https://support.google.com/docs/table/25273?hl=en )
+### Charts and Graphs
+Here are some links about information on how to make and format charts in spreadhsheets:
+[Graphs in Google Sheets](https://www.datacamp.com/community/tutorials/graphs-in-spreadsheets): Not only does this resource contain a detailed example of chart creation in spreadsheets, but it also provides you with downloadable sample data you can use to practice. As you have learned throughout this course, practicing these skills helps you learn more about the tools you are using. This example data is a great way to start!
+<br><br>[Add and edit a chart or graph in Google Sheets](https://support.google.com/docs/answer/63824): This article includes steps for creating, editing, and changing charts in Google Sheets with how-to videos. It also has a more in-depth guide to editing and customizing your chart after you have created it.  
+<br><br>[Create a Microsoft Excel chart from start to finish](https://support.microsoft.com/en-us/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2): This how-to guide from Microsoft’s support site includes instructions and a video tutorial for adding charts to Excel spreadsheets. This is a useful resource if you are working specifically with Excel spreadsheets. It also links to other useful articles about creating charts in Excel. 
+<br><br>[Microsoft Excel: Creating and modifying charts](https://guides.lib.umich.edu/c.php?g=283162&p=1886446): This is an explanation of Excel charts with downloadable handouts. This resource is especially useful because it has downloadable content that you can save to reference later when you start creating charts in your own spreadsheets.
 
-[Tips and tricks for working in sheets](https://www.benlcollins.com/spreadsheets/google-sheets-formulas-techniques/)- these are like hidden secrets that make things so much easier!
+### Specific Functions
+You may need some more information on how to do these somewhat more complicated functions:
+* [Import range (brings in values from another sheet)](https://support.google.com/docs/answer/3093340?hl=en&ref_topic=9199554)
+* [Sort data or range in tables excel ](https://support.microsoft.com/en-us/office/sort-data-in-a-range-or-table-62d0b95d-2a90-4610-a6ae-2e545c4a4654)
+* [Filter data/range excel](https://support.microsoft.com/en-us/office/filter-data-in-a-range-or-table-01832226-31b5-4568-8806-38c37dcc180e) 
+
+<br><br>SUMIFS and COUNTIFS are just two examples of functions with multiple conditions. They help demonstrate how multiple conditions can be built into the basic syntax of a function. But, there are other functions with multiple conditions that you can use in your data analysis. There are a lot of resources available online to help you get started with these other functions:
+* [How to use the Excel IFS function](https://exceljet.net/excel-functions/excel-ifs-function): This resource includes an explanation and example of the IFS function in Excel. This is a great reference if you are interested in learning more about IFS. The example is a useful way to understand this function and how it can be used. 
+* [VLOOKUP in Excel with multiple criteria](https://exceljet.net/formula/vlookup-with-multiple-criteria): Similar to the previous resource, this resource goes into more detail about how to use VLOOKUP with multiple criteria. Being able to apply VLOOKUP with multiple criteria will be a useful skill, so check out this resource for more guidance on how you can start using it on your own spreadsheet data.  
+* [INDEX and MATCH in Excel with multiple criteria](https://exceljet.net/formula/index-and-match-with-multiple-criteria): This resource explains how to use the INDEX and MATCH functions with multiple criteria. It also includes an example which helps demonstrate how these functions work with multiple criteria and actual data. 
+* [Using IF with AND, OR, and NOT functions in Excel](https://support.microsoft.com/en-us/office/using-if-with-and-or-and-not-functions-d895f58c-b36c-419e-b1f2-5c193a236d97): This resource combines IF with AND, OR, and NOT functions to create more complex functions. By combining these functions, you can perform your tasks more efficiently and cover more criteria at once. 
 
 
+### More Functions in Excel
+I will be honest with you, I copy and pasted the following right from my course I took: <br>
+<br>[Keyboard shortcuts in Excel](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f?ui=en-US&rs=en-US&ad=US): Earlier in this list, you were provided with a resource for keyboard shortcuts in Google Sheets. Similarly, this resource provides a list of keyboard shortcuts in Excel that will make performing regular spreadsheet tasks more efficient. This includes keyboard shortcuts for both desktop and mobile versions of Excel, so you can apply them no matter what platform you are working on. 
+<br>[222 Excel shortcuts](https://exceljet.net/keyboard-shortcuts): A compilation of shortcuts includes links to more detailed explanations about how to use them. This is a great way to quickly reference keyboard shortcuts. The list has been organized by functionality, so you can go directly to the sections that are most useful to you. 
+<br>[List of spreadsheet functions](https://exceljet.net/excel-functions): This is a comprehensive list of Excel spreadsheet functions with links to more detailed explanations. This is a useful resource to save so that you can reference it often; that way, you’ll have access to functions and examples that you can apply to your work. 
+<br>[List of spreadsheet formulas](https://exceljet.net/formulas): Similar to the previous resource, this comprehensive list of Excel spreadsheet formulas with links to more detailed explanations and can be saved and referenced any time you need to check out a formula for your analysis. 
+<br>[Essential Excel Skills for Analyzing Data](https://learntocodewith.me/posts/excel-skills/): This blog post includes more advanced functionalities of some spreadsheet tools that you have previously learned about, like pivot tables and conditional formatting. These skills have been identified as particularly useful for data analysis. Each section includes a how-to video that will take you through the process of using these functions step-by-step, so that you can apply them to your own analysis. 
+<br>[Advanced Spreadsheet Skills](https://www.slideshare.net/markjhonoxillo/advanced-spreadsheet-skills): Mark Jhon C. Oxillo’s presentation starts with a basic overview of spreadsheets but also includes advanced functions and exercises to help you apply formulas to actual data in Excel. 
+
+
+# Boolean Operators
+If you have never heard of [Boolean Operators](https://libguides.mit.edu/c.php?g=175963&p=1158594), I guess you might think about skipping over this section. But! You actually should know about Boolean Operators and what each of them mean if you want to work with data. It is not a hard concept to understand, once it is explained to you. 
 
 # SQL
 # Tableau
