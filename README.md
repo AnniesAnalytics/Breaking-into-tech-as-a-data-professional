@@ -51,6 +51,13 @@ I was surprised to find out how many free courses there are out there. Here is a
 <br> [Break into tech with Data Analytics](https://breakintotech.teachable.com/p/freebies-1?fbclid=IwAR0hiOJ9PcN0Ag7mLqj3DB6nrSh49oOOtn8zYqN_Dxa734z8OaEQxVSsYVs): This course is offered by a popular TikTokker- Charlotte @Charlotte_chz . She has over 100k followers and talks openly about how she job hopped from $28k to over $150 in 5 years, and what it's like to be a data analyst. She has a free and paid version, this one is the free version. 
 <br><br> [Elements of AI](https://www.elementsofai.com/):  ok, so this is not a beginner course. Do not start here. But it's free, so it's going in. 
 
+### Tutorials
+There are probably thousands of tutorials on the internet (for free). I have not looked at all of them. However, these few were suggested to me by people who tried and liked them, and they seem like they would be helpful for beginners. If you watch one, remember to give their video a like! Will take you a millisecond- but you actually contribute to their popularity and help them get paid by engaging positively like that. It is a little gift I try to give to every creator whose content I enjoy. 
+<br>[Learn SQL for beginners - Complete course](https://www.youtube.com/watch?v=rxr0s7RmJcs): The title pretty much says it all. Might be a good one to pan through if maybe you want to get a peek into SQL and then decide if you want to jump in more? It is by user Kudvenkat
+<br> [SQL Tutorial- Full database course for beginners](https://youtu.be/HXV3zeQKqGY): 
+<br> [Python for Everyone](https://www.youtube.com/watch?v=8DvywoWv6fI): Chuck Severance 
+<br> [Alex the Analyst](https://www.youtube.com/c/AlexTheAnalyst/playlists) has a lot of tutorials on his page about getting into data. 
+
 ## Paid Courses
 I am not going to give you a list of all of the programs and bootcamps out there. There are a TON of options for people who want the structure and support of a degree or bootcamp- but those cost tens of thousands of dollars and you'll have to do your own research if that is your path. This, is a list of the paid courses and platforms which I have come across. They still generally fit the theme of teaching yourself to break into tech. Most are under $100, but a few that seemed interesting or extra to helpful to me have made it onto the list as well. 
 ### Course platforms
@@ -73,7 +80,40 @@ I am not going to give you a list of all of the programs and bootcamps out there
 <br> [Learn SQL Course](https://sqlpal.thinkific.com/)- This course is created by the popular TikTokker Kenzie @Sql.pal - this course teaches you all you need to know about SQL $129. On her page she goes over many SQL topics.
 <br> [Break Into Tech With Data Analytics](https://breakintotech.teachable.com/p/da-launch?fbclid=IwAR0Q1FwJAeR6KwW9X0D8lIlvFTaFQ1k-uHVnBI7xAL9uwe7yINSXxbCXaHE): This is the paid version of Charlotte's (@Charlotte_Chz) course about breaking into tech. It is $249 and as a bonus aside from learning data analytics and how to land a job, she has a Discord server with a small group of other people who are taking the course. 
 
+# Up Next
+The rest of what I have to share in here is for those of us who are taking a "do it myself" approach. These are all of the links that I have been directed to in my courses, by other people, or found myself that I think are worth sharing. 
+
 # Spreadsheets
+Spreadsheets seem to me to be the foundation of working with data. So imagine a big old START HERE sign on this section. 
+<br> Do you need to just make sure you have the foundational skills, and want to learn the basics of working with Google Sheets? Here you go.
+* [Top 10 ways to clean your data ](https://support.google.com/a/users/answer/9604139?hl=en#zippy= )
+* [Top 20 Sheets Functions ](https://automate.io/blog/google-spreadsheet-formulas/)
+* [Sort and filter data](https://support.google.com/docs/answer/3540681?co=GENIE.Platform%3DDesktop&hl=en )
+* [Edit and format a spreadsheet ](https://support.google.com/docs/answer/46973?co=GENIE.Platform%3DDesktop&hl=en&oco=0)
+
+<br> How about the basics in Excel? Girl I got you:
+* [Excel Quickstarts](https://support.microsoft.com/en-us/office/create-a-workbook-in-excel-94b00f50-5896-479c-b0c5-ff74603b35a3) 
+* [Video Trainings](https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb?wt.mc_id=otc_home) 
+* [Format a worksheet Quickstart guide](https://support.microsoft.com/en-us/office/quick-start-format-a-worksheet-d70f75a2-23e6-4c92-83d6-2f219e4ad42e )
+* [Guidelines for Organizing Data](https://support.microsoft.com/en-us/office/guidelines-for-organizing-and-formatting-data-on-a-worksheet-90895cad-6c85-4e02-90d3-8798660166e3) 
+* [Top 10 ways to clean your data](https://support.microsoft.com/en-us/office/top-ten-ways-to-clean-your-data-2844b620-677c-47a7-ac3e-c2e157d1db19) 
+
+<br> If you want to link a lot of concepts together and have someone *show* you how to do them, maybe a training is right for you:
+* [This is a video training of excel basics](https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb )
+* [Google sheets training and help, for beginner, intermediate, or advanced users](https://support.google.com/a/users/answer/9282959?visit_id=637361702049227170-1815413770&rd=1 )
+
+## Spreadsheet Cheat Sheets
+Who *doesn't* love a good cheat sheet? I found quite a few:
+* [Google sheets cheat sheet ](https://support.google.com/a/users/answer/9300022)
+
+[Excel keyboard shortcuts ](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-excel-1798d9d5-842a-42b8-9c99-9b7213f0040f)
+
+[Google Sheets Keyboard Shortcuts ](https://support.google.com/docs/answer/181110)
+
+[Comprehensive List of Sheets functions](https://support.google.com/docs/table/25273?hl=en )
+
+[Tips and tricks for working in sheets](https://www.benlcollins.com/spreadsheets/google-sheets-formulas-techniques/)- these are like hidden secrets that make things so much easier!
+
 
 
 # SQL
