@@ -203,7 +203,7 @@ This goes for SQL and all other things within the data analytics space:
 
 # Tableau/Data Visualization
 It feels like it is totally switching gears when you suddenly start talking about visualizations. It really threw me off to go from "Ok, so the comma has to go HERE" to "What colors should I make the bars in this chart?". 
-<br> So far, I only have a couple of text files/decision trees that I think are really helpful and want to share with you about data visualizations/Tableau. [Click here](https://anniesanalytics.wixsite.com/annie-nelson/general-9) to go to my website where you can download these files (for free, of course, no weird software downloads or anything, I just can't add them to my page here easily).
+<br> So far, I only have a couple of text files/decision trees that I think are really helpful and want to share with you about data visualizations/Tableau. [Click here](https://anniesanalytics.wixsite.com/annie-nelson/general-9) to go to my website where you can download these files (for free, of course, no weird software downloads or anything, I just can't add them to my page here easily). Scroll to "#4- Visualization Files"
 
 ## Tableau Basics
 [This video](https://public.tableau.com/en-us/s/resources) is a great starting place. It is divided into sections so you can skip to what you need if you want.  
@@ -239,9 +239,95 @@ I am not going to lie, every time I use Tableau so far, it is a lot of me just c
 * [Bullet graphs](https://help.tableau.com/current/pro/desktop/en-us/qs_bullet_graphs.htm) compare a primary measure with another and can be used instead of dial gauge charts. 
 * [Packed bubble charts](https://help.tableau.com/current/pro/desktop/en-us/buildexamples_bubbles.htm) display data in clustered circles. 
 
+### Readings about visualizations
+[The beauty of data visualization](https://www.ted.com/talks/david_mccandless_the_beauty_of_data_visualization?language=en#t-150183): In this video, David McCandless explains the need for design to not just be beautiful, but for it to be meaningful as well. Data visualization must be able to balance function and form for it to be relevant to your audience. 
+<br>[‘The McCandless Method’ of data presentation](https://artscience.blog/home/the-mccandless-method-of-data-presentation): At first glance, this blog appears to be written by a David McCandless fan, and it is. However, it contains very useful information and provides an in-depth look at the 5-step process that McCandless uses to present his data.
+<br>[Information is beautiful](https://informationisbeautiful.net/): Founded by McCandless himself, this site serves as a hub of sample visualizations that make use of the McCandless method. Explore data from the news, science, the economy, and so much more and learn how to make visual decisions based on facts from all kinds of sources. 
+<br>[Beautiful daily news](https://informationisbeautiful.net/beautifulnews/): In this McCandless collection, explore uplifting trends and statistics that are beautifully visualized for your creative enjoyment. A new chart is released every day so be sure to visit often to absorb the amazing things happening all over the world.
+<br>[The Wall Street Journal Guide to Information Graphics](https://www.amazon.com/Street-Journal-Guide-Information-Graphics/dp/0393072959): The Dos and Don'ts of Presenting Data, Facts, and Figures: This is a comprehensive guide to data visualization, including chapters on basic data visualization principles and how to create useful data visualizations even when you find yourself in a tricky situation. This is a useful book to add to your data visualization library, and you can reference it over and over again.
+ 
+<br><br>[This is an entire blog dedicated to data visualizaiton](https://www.tableau.com/learn/articles/best-data-visualization-blogs )
+
 
 # Python
+I haven't learned Python yet, so I don't have much for you. But, I will add more when I do learn about it! Besdies the courses I linked you to above, all I have to add is [this tutorial](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners ) for beginners.
+
+<br><br> I also have some information about R vs Python. 
+<br>[R versus Python](https://medium.com/analytics-and-data/r-vs-python-a-comprehensive-guide-for-data-professionals-321e8dead598), a comprehensive guide for data professionals: This article is written by a data professional with extensive experience using both languages and provides a detailed comparison. 
+<br>[R versus Python](https://www.dataquest.io/blog/python-vs-r/), an objective comparison: This article provides a comparison of the languages using examples of code use. 
+<br>[R versus Python](https://blog.rstudio.com/2019/12/17/r-vs-python-what-s-the-best-for-language-for-data-science/): What’s the best language for data science?: This blog article provides RStudio’s perspective on the R vs. Python debate.
+
+
 # R 
+R is a little more niche than these others- I would say do not start with R! But, look into jobs you may want. If you see R listed consistently, I hear it is commonly used in research (which the health field does a lot of), then here's some free stuff!
+## Files
+First of all, I have actually a lot of files for you about R. They range from several long, informative readings which I still refer back to, to cheatsheets. [You can find them here](https://anniesanalytics.wixsite.com/annie-nelson/general-9). Scroll to "#5- R Files"
+* Output formats available in Markdown (and how-to)
+* RMarkdown Cheatsheet
+* ggplot
+* Common problems when Visualizing in R
+* R vocab
+* Operators (this is a long one)
+* Keeping your code readable
+* Vectors dates and times (this is a long one)
+* Vectors and Lists in R
+* Ways to learn about programming
+* Juptyr Notebooks
+
+## The Basics
+### How to
+[This is a guide](https://rstudio.cloud/learn/primers/3 ) by R Studio on how to do basic things. They provide code and explanations right in this guide which is separated into different actions.
+<br> [Getting Started in R](https://www.kaggle.com/rtatman/getting-started-in-r-first-steps): First steps- a very informative tutorial!
+<br>[Advantages of RStudio](https://www.theanalysisfactor.com/the-advantages-of-rstudio/ )- why would I use R? 
+<br>[Another resource](https://lgatto.github.io/2017_11_09_Rcourse_Jena/before-we-start.html ) on “Why R” for data analysis
+<br>[Data transformation](https://r4ds.had.co.nz/transform.html ) (and cleaning)
+
+## Specific Functions in R
+* [gganimate information](https://www.kaggle.com/mrisdal/gganimate)
+* [Writing Hamilton lyrics with tensorflow ](https://www.kaggle.com/anasofiauzsoy/writing-hamilton-lyrics-with-tensorflow-r)
+* [Dive into dpylr](https://www.kaggle.com/jessemostipak/dive-into-dplyr-tutorial-1 )
+* [Data import in R](https://r4ds.had.co.nz/data-import.html )
+* [Readxl](https://readxl.tidyverse.org/ )
+* [R datasets package for practicing in R ](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/00Index.html)
+* [Ggplot2](https://ggplot2.tidyverse.org/) 
+* * [and more on visualizing ](https://datacarpentry.org/dc_zurich/R-ecology/05-visualisation-ggplot2.html)
+* [Putting it all together: ggplot and dpylr ](https://rladiessydney.org/courses/ryouwithme/03-vizwhiz-1/#1-4-putting-it-all-together-dplyr-ggplot)
+* [What is a Tibble](https://tibble.tidyverse.org/), and how to use one 
+* [Aesthetics of a plot ](https://www.rdocumentation.org/packages/ggplot2/versions/3.3.3/topics/aes)
+* [Aesthetics Explained](http://statseducation.com/Introduction-to-R/modules/graphics/aesthetics/)
+* [Save a plot](https://www.datanovia.com/en/blog/how-to-save-a-ggplot/) 
+* [More save a plot info ](https://www.datamentor.io/r-programming/saving-plot/)
+<br>Pivoting wide/long 
+* [Pivoting](https://tidyr.tidyverse.org/articles/pivot.html): Consider this a starting point for tidying data through wide and long conversions. This web page is taken directly from tidyr package information at [tidyverse.org](https://www.tidyverse.org/). It explores the components of the pivot_longer and pivot_wider functions using specific details, examples, and definitions. 
+* [CleanItUp 5: R-Ladies Sydney](https://rladiessydney.org/courses/ryouwithme/02-cleanitup-5/): Wide to Long to Wide to…PIVOT: This resource gives you additional details about the pivot_longer and pivot_wider functions. The examples provided use interesting datasets to illustrate how to convert data from wide to long and back to wide. 
+* [Plotting multiple variables](https://scc.ms.unimelb.edu.au/resources-list/simple-r-scripts-for-analysis/r-scripts): This resource explains how to visualize wide and long data, with ggplot2 to help tidy it. The focus is on using pivot_longer to restructure data and make similar plots of a number of variables at once. 
+
+## R Markdown
+[How to use RMarkdown](https://rmarkdown.rstudio.com/lesson-1.html )
+<br>[Reference Guide ](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf?_ga=2.49295910.1034302809.1602760608-739985330.1601281773)
+<br>[Cheat Sheet]( https://rmarkdown.rstudio.com/lesson-15.html )
+<br>[R Markdown, the Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+
+## Annotating in R
+[Create an annotation layer](https://ggplot2.tidyverse.org/reference/annotate.html): This guide explains how to add an annotation layer with ggplot2. It includes sample code and data visualizations with annotations created in ggplot2. 
+[How to annotate a plot in ggplot2](How to annotate a plot in ggplot2): This resource includes explanations about how to add different kinds of annotations to your ggplot2 plots, and is a great reference if you need to quickly look up a specific kind of annotation. 
+[Annotations](Annotations): Chapter eight of the online ggplot2 textbook is focused entirely on annotations. It provides in-depth explanations of the different types of annotations, how they are used, and detailed examples. 
+[How to annotate a plot](How to annotate a plot): This R-Bloggers article includes explanations about how to annotate plots in ggplot2. It starts with basic concepts and covers more complicated information the further on you read. 
+[Text Annotations](Text Annotations): This resource focuses specifically on adding text annotations and labels to ggplot2 visualizations.
+
+
+### Find a community or Get Help With R!
+[RStudio](https://rstudio.com/): The best place to find help with R is in R itself! You can input ‘?’ or the help() command to search in R. You can also open the Help pane to find more R resources. 
+<br>[RStudio Blog](https://blog.rstudio.com/): RStudio’s blog is a great place to find information about RStudio, including company news.  You can read the most recent [featured posts](https://blog.rstudio.com/categories/featured/) or use the search bar and the list of categories on the left side of the page to explore specific topics you might find interesting or to search for a specific post. 
+<br>[Stack Overflow](Stack Overflow): The Stack Overflow blog posts opinions and advice from other coders. This is a great place to stay in touch with conversations happening in the community. 
+<br>[R-Bloggers](https://www.r-bloggers.com/): The R-Bloggers blog has useful tutorials and news articles posted by other R users in the community. 
+<br>[R-Bloggers' tutorials for learning R](https://www.r-bloggers.com/2015/12/how-to-learn-r-2/#h.y5b98o9o2h1r): This blog post from R-Bloggers compiles some basic R tutorials and also links to more advanced guides.
+
+### Cool use of R
+[This](https://www.kaggle.com/jessemostipak/notebooks) is cool to look at if you are interested in R.
+
+
+
 # Resources For Building a Portfolio and Job Searching
 ## Where to Find Data to Practice With
 # Internet Resources for Learning More about Data and Being a Data Professional
