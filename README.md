@@ -23,10 +23,12 @@ In this guide, I will go over the following topics. If you want to skip ahead to
 * [Tableau](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#tableaudata-visualization)
 * [Python](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#spreadsheets)
 * [R](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#r) 
+* General Cheatsheets 
 * [Resources For Building a Portfolio and Job Searching](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#r)
    * [Where to Find Data to Practice With](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#where-to-find-data-to-practice-with)
 * [Internet Resources for Learning More about Data and Being a Data Professional](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#internet-resources-for-learning-more-about-data-and-being-a-data-professional)
 * [Books about Working With Data](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#books-about-working-with-data)
+
 
 # Courses- Free and Paid :ok_hand:
 Coming out of another field to try and break into tech is overwhelming. I am glad that I started with the Google Certificates course in Data Analytics, because it gave me a great foundation for starting out. Before you get started, you need to ask yourself honestly "what are my learning needs?". If you are someone who needs someone else to be giving you deadlines and keeping you on track, then a self-paced course may not be your best option. If you need to be able to talk to professors and work your way through questions, then one of the free/cheaper online courses where you work through a series of modules may not be your best option. If you, like me, are a self-directed learner who prefers to teach yourself and enjoys troubleshooting on your own, then the cheaper/free resources will be a good fit. Of course, your budget is important as well! 
@@ -331,7 +333,8 @@ First of all, I have actually a lot of files for you about R. They range from se
 ### Cool use of R
 [This](https://www.kaggle.com/jessemostipak/notebooks) is cool to look at if you are interested in R.
 
-
+# General Cheatsheets for Data Analytics/Science
+[100+ Data Science, Machine Learning, AI, & Deep Learning Cheet Sheet PDF's ](https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html?utm_content=198825352&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012)
 
 # Resources For Building a Portfolio and Job Searching :moneybag:
 ### Videos With Data Higher-Up's
