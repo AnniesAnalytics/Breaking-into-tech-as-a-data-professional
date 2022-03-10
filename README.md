@@ -138,6 +138,7 @@ You may need some more information on how to do these somewhat more complicated 
 * [Import range (brings in values from another sheet)](https://support.google.com/docs/answer/3093340?hl=en&ref_topic=9199554)
 * [Sort data or range in tables excel ](https://support.microsoft.com/en-us/office/sort-data-in-a-range-or-table-62d0b95d-2a90-4610-a6ae-2e545c4a4654)
 * [Filter data/range excel](https://support.microsoft.com/en-us/office/filter-data-in-a-range-or-table-01832226-31b5-4568-8806-38c37dcc180e) 
+* [Import a table from a Webpage](https://martechwithme.com/how-to-import-data-from-website-to-google-sheets/)
 
 <br><br>SUMIFS and COUNTIFS are just two examples of functions with multiple conditions. They help demonstrate how multiple conditions can be built into the basic syntax of a function. But, there are other functions with multiple conditions that you can use in your data analysis. There are a lot of resources available online to help you get started with these other functions:
 * [How to use the Excel IFS function](https://exceljet.net/excel-functions/excel-ifs-function): This resource includes an explanation and example of the IFS function in Excel. This is a great reference if you are interested in learning more about IFS. The example is a useful way to understand this function and how it can be used. 
@@ -381,14 +382,16 @@ I follow all of these creators. I like their videos, and watch them, and share t
 <br>@python.chick : Has a lot of content about getting into data science, learning Python, and what it's like to be in the field. She seems brilliant to me. 
 <br> charlotte_chz : Charlotte and I started our pages at a about the same time. I now have 14k followers and she has 128k :sweat_smile:. I really like her content about job hopping up to $158k a year within a few years after teaching herself data analytics- I see her as like that cool older cousin who is a few steps ahead of me in life. We talk sometimes, she knows how I feel about her. I also love that she talks about what is actually like to be a data analyst from day to day, and about hiring related things.
 <br> stocksandsquats: I feel similarly about Hannah as I do to Charlotte. She has very similar content but they are in different areas of data analytics so it is another perspective. Hannah also is not afraid to show her personality and voice her opinions on Tik Tok and I like that about her. She is clearly just trying to make content to help people. 
-<br> zero2sudo: I just discovered his page recently and I love it. He is in software engineering 
-<br> lucaswonderley
-<br> sql.pal
+<br> sql.pal: Kenzie is another creator in the space of data analytics who are here to help and spread good vibes. She consistently puts out content about using and learning SQL, including an entire series about how to do JOINs. She is a sweet and positive creator, and she even hopped on to help moderate my Discord with me right away when I started out and has contributed some helpful things in different channels. 
+<br> zero2sudo: I just discovered his page recently and I love it. He is in software engineering, so not quite data analytics. However, he gives a lot of good tech tips in general on his page- and he has a whole playlist (free) on learning Python. As soon as I commented on one of his posts trying to chat with him he followed me and messaged me, and has been very friendly and helpful since then. If you have any troubles learning Python or questions in general, or just want to have people in your feed who are not only killing it in tech but also lifting while they climb, go check his page out. 
+<br> lucaswonderley: I only discovered him a day ago, but his bio is "Daily software development content". He seemes to have interesting stuff on Python, so if you want to learn that, check him out.
 ### YouTube 
-Learn SQL for beginners - complete course
-<br> SQL Tutorial - Full Database Course for Beginners
-<br> python for everyone chuck severance
-<br> Alex the Analyst
+I have not taken/ watched any of these courses myself so I cannot compare them, but I can say they have been suggested to me by my followers! There are also tons and tons more videos on YouTube that I did not mention here.
+[Learn SQL for beginners - complete course](https://www.youtube.com/watch?v=rxr0s7RmJcs)
+<br> [SQL Tutorial - Full Database Course for Beginners](https://youtu.be/HXV3zeQKqGY)
+<br> [python for everyone chuck severance](https://www.youtube.com/watch?v=8DvywoWv6fI)
+<br>
+<br> [Alex the Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg): If you want to get into Data Analytics, definitely check out his page! He is so knowledgable and helpful, and he taught himself! I have loved his videos and could not pick just one to suggest. 
 #  Books about Working With Data :closed_book:
 These are books that have been suggested to me:
 * [Storytelling with data](https://www.storytellingwithdata.com/books): This book was suggested to me by someone who said that it was immensely helpful to them in learning how to use Tableau and create professional looking visulaizations. It apparently even comes with practice examples where you can work on the skills you are learning. It's $44 new, but I found it for about $25 online used (I did not buy it)
