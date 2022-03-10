@@ -159,6 +159,48 @@ I will be honest with you, I copy and pasted the following right from my course 
 If you have never heard of [Boolean Operators](https://libguides.mit.edu/c.php?g=175963&p=1158594), I guess you might think about skipping over this section. But! You actually should know about Boolean Operators and what each of them mean if you want to work with data. It is not a hard concept to understand, once it is explained to you. 
 
 # SQL
+SQL is, as I percieve it, the next most widely needed *thing* when working with data. Without any further ado, here is the free information I have to share:
+
+### Files
+Here is a list of all of the files that are either very helpful PDF's, or an informational reading that I thought was so helpful that I just had to save it. To get access to these files, just [click this link](https://anniesanalytics.wixsite.com/annie-nelson/general-9), and then scroll to where it says "#3- SQL Resources" (I cannot add them to this page, wish I could!)
+* CONCAT and variations of CONCAT in SQL
+* 3 pages of SQL cheatsheets
+* Intermediate Guide to SQL
+* Temporary Tables
+* Writing SQL Subfunctions
+* SQL Best Practices
+
+## SQL Basics 
+<br>[What is SQL?](https://www.sqltutorial.org/what-is-sql/ ) Basics. 
+This site also goes through tutorials on a lot of common SQL functions. 
+<br>[W3 schools](https://www.w3schools.com/sql/default.asp) has a SQL tutorial which not only provides you with a lot of awesome queries and explanations, but also the chance to try them yourself. You can follow the tutorial in order to learn about SQL from scratch 
+<br>[This article](https://towardsdatascience.com/sql-cheat-sheet-776f8e3189fa ) covers a lot of the basic functions in SQL, specifically for PostgreSQL. It gives explanations as well as code.
+<br>[This is an article](https://www.w3schools.com/sql/sql_ref_keywords.asp) about common keywords used in SQL 
+<br>[SQL Server functions](https://www.w3schools.com/sql/sql_ref_sqlserver.asp)
+
+## Specific Functions
+<br>[Converting (casting) data ](https://cloud.google.com/bigquery/docs/reference/standard-sql/conversion_rules)
+<br>[CAST and CONVERT](https://docs.microsoft.com/en-us/sql/t-sql/functions/cast-and-convert-transact-sql?view=sql-server-ver15): SQL Server reference documentation
+<br>[MySQL CAST Functions and Operator](https://dev.mysql.com/doc/refman/8.0/en/cast-functions.html)s: MySQL reference documentation
+<br>[How to: SQL Type Casting](How to: SQL Type Casting): Blog about type casting that has links to other SQL short guides 
+[Aliasing in SQL](https://www.w3schools.com/sql/sql_alias.asp) AND check out [this](https://www.sqltutorial.org/sql-alias/)  
+
+Column Aliasing: https://documentation.sas.com/doc/en/pgmsascdc/9.4_3.5/sqlproc/p0aymxwsvbt5wcn1lncugwjtf758.htm 
+
+### JOINS
+Joins are a tricky one. Kenzie @SQL.Pal [did a whole (helpful) series](https://www.tiktok.com/@sql.pal/video/7067308120577461550?is_from_webapp=1&sender_device=pc&web_id6937119035180418565) about them if you want to see it in video form.
+* [SQL JOINs](https://www.w3schools.com/sql/sql_join.asp): This is a good basic explanation of JOINs with examples. If you need a quick reminder of what the different JOINs do, this is a great resource to bookmark and come back to later.  
+* [Database JOINs](https://www.essentialsql.com/introduction-database-joins/) - Introduction to JOIN Types and Concepts: This is a really thorough introduction to JOINs. Not only does this article explain what JOINs are and how to use them, but it also explains the various scenarios in more detail of when and why you would use the different JOINs. This is a great resource if you are interested in learning more about the logic behind JOINing.
+* [SQL JOIN](https://dataschool.com/how-to-teach-people-sql/sql-join-types-explained-visually/) Types Explained in Visuals: This resource has a visual representation of the different JOINs. This is a really useful way to think about JOINs if you are a visual learner, and it can be a really useful way to remember the different JOINs. 
+* [SQL JOINs](https://towardsdatascience.com/sql-join-8212e3eb9fde): Bringing Data Together One Join at a Time: Not only does this resource have a detailed explanation of JOINs with examples, but it also provides example data that you can use to follow along with their step-by-step guide. This is a useful way to practice JOINs with some real data. 
+* [SQL JOIN](https://www.dofactory.com/sql/join): This is another resource that provides a clear explanation of JOINs and uses examples to demonstrate how they work. The examples also combine JOINs with aliasing. This is a great opportunity to see how JOINs can be combined with other SQL concepts that you have been learning about in this course.  
+
+
+# Problem Solving 
+This goes for SQL and all other things within the data analytics space:
+<br>Can’t get your code to work? Wondering “if….”? [Try Stack OverFlow](https://stackoverflow.com/). *The* spot for problem solving.  
+
+
 # Tableau
 # Python
 # R 
