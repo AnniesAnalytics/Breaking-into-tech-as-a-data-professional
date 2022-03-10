@@ -201,7 +201,45 @@ This goes for SQL and all other things within the data analytics space:
 <br>Can’t get your code to work? Wondering “if….”? [Try Stack OverFlow](https://stackoverflow.com/). *The* spot for problem solving.  
 
 
-# Tableau
+# Tableau/Data Visualization
+It feels like it is totally switching gears when you suddenly start talking about visualizations. It really threw me off to go from "Ok, so the comma has to go HERE" to "What colors should I make the bars in this chart?". 
+<br> So far, I only have a couple of text files/decision trees that I think are really helpful and want to share with you about data visualizations/Tableau. [Click here](https://anniesanalytics.wixsite.com/annie-nelson/general-9) to go to my website where you can download these files (for free, of course, no weird software downloads or anything, I just can't add them to my page here easily).
+
+## Tableau Basics
+[This video](https://public.tableau.com/en-us/s/resources) is a great starting place. It is divided into sections so you can skip to what you need if you want.  
+<br>[Explantions](https://help.tableau.com/current/pro/desktop/en-us/actions_filter.htm ) of how/why to use filters.
+
+### Examples
+Here are some beautiful examples of all the ways you could go with your visualizations (called Vizzes). I know, I'm overwhelmed too.
+* [Are we alone?](https://public.tableau.com/app/profile/kimly.scott/viz/Arewealone/AreWeAlone)  
+* [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day )
+* [Who’s talking in popular films? ](https://public.tableau.com/app/profile/bo.mccready8742/viz/WordDataWorking/WhoIsTalking)
+* [2020 best vizzes ](https://visme.co/blog/best-data-visualizations/)
+* [Information is beautiful](https://informationisbeautiful.net/wdvp/gallery-2019/)
+* [Data Studio good projects gallery ](https://datastudio.google.com/gallery?category=visualization)
+* [I have cancer ](https://www.billyost.net/)
+
+## Planning
+One thing that can be initimidating when you are new to this stuff, is trying to decide which kind of graph or chart you should use to best visualize your data. Here are some resources that can help you along the planning stages.
+<br>[This ebook](https://s3.amazonaws.com/looker-elearning-resources/Requirements+Gathering+Worksheet.pdf ) provides you with questions that will help you when looking at your data and trying to figure out your relevant stakeholders and their needs- which guides how you design your dashboard
+<br>How should I visualize my data? [This might help](https://datavizcatalogue.com/#google_vignette )- it shows examples of each and helps you make decisions
+<br>[Which chart or graph is right for you](https://www.tableau.com/sites/default/files/media/which_chart_v6_final_0.pdf)?  
+<br>[Ultimate cheat sheet on Tableau charts ](https://towardsdatascience.com/the-ultimate-cheat-sheet-on-tableau-charts-642bca94dde5)
+
+## How to Create Different Charts
+I am not going to lie, every time I use Tableau so far, it is a lot of me just clicking buttons and moving things around, hoping it will do what I want. Be smarter than me. Read these resources. They're free.
+* Highlight tables appear like tables with conditional formatting. [Review the steps](https://help.tableau.com/current/pro/desktop/en-us/buildexamples_highlight.htm) to build a highlight table. 
+* [Heat maps](https://help.tableau.com/current/pro/desktop/en-us/buildexamples_highlight.htm) show intensity or concentrations in the data.
+* [Density maps](https://help.tableau.com/current/pro/desktop/en-us/maps_howto_heatmap.htm) show concentrations (like a population density map). 
+* [Gantt charts](https://help.tableau.com/current/pro/desktop/en-us/buildexamples_gantt.htm) show the duration of events or activities on a timeline. 
+* [Symbol maps](https://interworks.com/blog/ccapitula/2014/08/18/tableau-essentials-chart-types-symbol-map/) display a mark over a given longitude and latitude. Learn more from this example of a symbol map.
+* Filled maps are maps with areas colored based on a measurement or dimension. [Explore an example](https://interworks.com/blog/ccapitula/2014/09/23/tableau-essentials-chart-types-filled-map/) of a filled map.
+* Circle views show comparative strength in data. [Learn more from this example](https://interworks.com/blog/ccapitula/2014/10/17/tableau-essentials-chart-types-circle-view/) of a circle view.
+* [Box plots](https://help.tableau.com/current/pro/desktop/en-us/buildexamples_boxplot.htm) also known as box-and whiskers charts show the distribution of values along a chart axis. 
+* [Bullet graphs](https://help.tableau.com/current/pro/desktop/en-us/qs_bullet_graphs.htm) compare a primary measure with another and can be used instead of dial gauge charts. 
+* [Packed bubble charts](https://help.tableau.com/current/pro/desktop/en-us/buildexamples_bubbles.htm) display data in clustered circles. 
+
+
 # Python
 # R 
 # Resources For Building a Portfolio and Job Searching
