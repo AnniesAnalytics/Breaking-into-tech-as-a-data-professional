@@ -121,6 +121,7 @@ There is some readings that I have found to be so useful, that I saved the entir
 * Keyboard Shortcuts in Sheets cheatsheet
 * Using Pivot Tables 
 * Common Errors in Spreadsheets and How to Fix Them
+* SQL Functions learned in the Google Course (With examples)
 
 ### Problem Solving
 It is so frustrating to come up with an error in your sheet, especially when you are trying to teach yourself this stuff and there is nobody to help you. There are actually people out there to help you on the internet! But in the meantime, this may help you problem solve:
@@ -276,6 +277,7 @@ First of all, I have actually a lot of files for you about R. They range from se
 * Vectors and Lists in R
 * Ways to learn about programming
 * Juptyr Notebooks
+* R Functions Learned in the Google Course (with examples)
 
 ## The Basics
 ### How to
