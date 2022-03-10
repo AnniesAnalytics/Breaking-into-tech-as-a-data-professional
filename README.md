@@ -16,17 +16,17 @@ I do not have the answers to all of these questions. But- as of writing this I h
 <br><br> As for the getting a job without a degree question- I have been over this with hundreds of people at this point. The general consensus is that if you do a good job building your portfolio, have a good resume, and network, you can get a job without a degree. There are many people in the field whose highest "education level" is high school. That being said, obviously having a tech degree would be helpful. Additionally, if you do have a degree in another field, especially one such as a masters degree, it will probably help give you a competitive edge because it shows you have the capacity to learn. Your first job is just that- your first job! You can still break into the industry and build your way up from there.
 
 ## Table of Contents
-In this guide, I will go over the following topics. If you want to skip ahead to a specific one, ctrl+find your way there.
+In this guide, I will go over the following topics. If you want to skip ahead to a specific one, click on it and you will be brought there! (Neat trick I learned)
 * [Courses- Free and Paid](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#courses--free-and-paid)
-* Spreadsheets
-* SQL
-* Tableau
-* Python
-* R 
-* Resources For Building a Portfolio and Job Searching
-   * Where to Find Data to Practice With
-* Internet Resources for Learning More about Data and Being a Data Professional
-* Books about Working With Data
+* [Spreadsheets](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#spreadsheets)
+* [SQL](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#spreadsheets)
+* [Tableau](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#tableaudata-visualization)
+* [Python](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#spreadsheets)
+* [R](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#r) 
+* [Resources For Building a Portfolio and Job Searching](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#r)
+   * [Where to Find Data to Practice With](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#where-to-find-data-to-practice-with)
+* [Internet Resources for Learning More about Data and Being a Data Professional](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#internet-resources-for-learning-more-about-data-and-being-a-data-professional)
+* [Books about Working With Data](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#books-about-working-with-data)
 
 # Courses- Free and Paid
 Coming out of another field to try and break into tech is overwhelming. I am glad that I started with the Google Certificates course in Data Analytics, because it gave me a great foundation for starting out. Before you get started, you need to ask yourself honestly "what are my learning needs?". If you are someone who needs someone else to be giving you deadlines and keeping you on track, then a self-paced course may not be your best option. If you need to be able to talk to professors and work your way through questions, then one of the free/cheaper online courses where you work through a series of modules may not be your best option. If you, like me, are a self-directed learner who prefers to teach yourself and enjoys troubleshooting on your own, then the cheaper/free resources will be a good fit. Of course, your budget is important as well! 
