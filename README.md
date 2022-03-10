@@ -39,7 +39,8 @@ I was surprised to find out how many free courses there are out there. Here is a
 <br>[EdX](https://www.edx.org/search?q=SQL):
 <br>[Khan Academy](https://www.khanacademy.org/computing):
 <br>[Coursera](https://www.edx.org/search?q=SQL): Coursera is not free, but if you apply for financial aid, give a good reason, and wait a few weeks, you can get it free.
-<br><br>
+<br>[COOP Careers](https://coopcareers.org/faq): Wait, a FREE Bootcamp? Yep! If you are from a minority group, live in a few key regions, and meet the other requirements, you can apply for this free bootcamp that will help you break into tech- learn the skills you need (technical and interpersonal)- to land a new job.
+<br>
 ### Free Courses
 <br>EdX [excel courses](https://www.edx.org/learn/excel):
 <br>[AP Statistics](https://www.khanacademy.org/math/get-ready-for-ap-statistics) from Khan Academy:
@@ -329,7 +330,50 @@ First of all, I have actually a lot of files for you about R. They range from se
 
 
 # Resources For Building a Portfolio and Job Searching
+### Videos With Data Higher-Up's
+[Portfolio and Resume Analysis with Data Science Hiring Managers](https://www.youtube.com/watch?v=cBbYhhH399c&list=PLqFaTIg4myu-npFrYu6cO7h7AI6bkcOlL&index=10  ): A video on youtube with hiring managers about the things that you need to be including in your portfolio and resume. 
+<br>[Kaggle Career Con](https://www.youtube.com/playlist?list=PLqFaTIg4myu-npFrYu6cO7h7AI6bkcOlL)- TONS of good info 
+
+### Further Helpful Information
+[How to build a compelling data science portfolio and resume](https://www.youtube.com/watch?v=xrhPjE7wHas&list=PLqFaTIg4myu-dNobDHQZPrD2wH27PthCG): A hiring manager from Quora reviews actual resumes from data science candidates and gives candid feedback on areas of improvement. Learn what to include and omit from your resume and  portfolio as well as formatting tips. This offers a great firsthand look into what hiring managers are seeking when reviewing your resume and portfolio.
+<br>[Overview of the Data Science Interview Process](https://www.youtube.com/watch?v=X6orAXDIrds&list=PLqFaTIg4myu-dNobDHQZPrD2wH27PthCG&index=5): Hiring managers at Google discuss typical data science interviews, including the soft and hard skills you will want to prioritize. You will get a better sense of the interview process from both sides, and better prepare yourself for what to expect when interviewing for a data science role.
+<br>[Live Breakdown of Common Data Science Interview Questions](https://www.youtube.com/watch?v=aXUsrKPTBvY&list=PLqFaTIg4myu-dNobDHQZPrD2wH27PthCG&index=6): Watch a mock interview to see how a Kaggle data scientist answers questions during a data science interview. The video also includes live coding! This video is great preparation for some of the most commonly asked data science interview questions. 
+<br>[Am I a Good Fit](https://www.youtube.com/watch?v=0W0Zrc-m5r8&list=PLqFaTIg4myu-dNobDHQZPrD2wH27PthCG&index=2)? Identifying Your Best Data Science Job Opportunities: Ever wonder where you will fit in for your future career? This chat with Jessica Kirkpatrick, an intelligence manager, gives you a great breakdown of the different types of categories within the data science job market, the different types of job opportunities you may notice, and how you can frame previous work and skills from another career to fit into the data science job market. 
+<br>[Real Stories from a Panel of Successful Career Switchers](https://www.youtube.com/watch?v=iP0Fxg4oqUQ&list=PLqFaTIg4myu-dNobDHQZPrD2wH27PthCG&index=8): Are you switching careers? Awesome! Learn from people who were in the same position as you and successfully switched their careers into data science. This panel discusses the different experiences in their careers and life that shifted them into the data science field.        
+ <br>[4 Case Study Questions for Interviewing Data Analysts at a Startup](https://www.holistics.io/blog/startup-data-analyst-interview-case-studies/)         
+
+
 ## Where to Find Data to Practice With
+Open Data! Here are some places to find real data that you can get your hands on to practice with.
+* [Google cloud](https://cloud.google.com/solutions/datasets)
+* [Google Research Datasets](https://datasetsearch.research.google.com/)
+* [Kaggle](https://www.kaggle.com/datasets)
+* [Big Query](https://cloud.google.com/bigquery/public-data)
+* [Climate Data](https://www.climate.gov/maps-data/all?listingMain=datasetgallery) 
+* [Climate/Weather](https://www.ncei.noaa.gov/weather-climate-links )
+
+Public health datasets
+<br>[Global Health Observatory data](https://www.who.int/data/collections): You can search for datasets from this page or explore featured data collections from the World Health Organization.  
+<br>[The Cancer Imaging Archive (TCIA) dataset](https://cloud.google.com/healthcare/docs/resources/public-datasets/tcia): Just like the earlier dataset, this data is hosted by the Google Cloud Public Datasets and can be uploaded to BigQuery.
+<br>[1000 Genomes](1000 Genomes): This is another dataset from the Google Cloud Public resources that can be uploaded to BigQuery. 
+<br><br>Public climate datasets
+<br>[National Climatic Data Center](https://www.ncdc.noaa.gov/data-access/quick-links): The NCDC Quick Links page has a selection of datasets you can explore. 
+<br>[NOAA Public Dataset Gallery](https://www.climate.gov/maps-data/datasets): The NOAA Public Dataset Gallery contains a searchable collection of public datasets.
+<br><br>Public social-political datasets
+<br>[UNICEF State of the World’s Children](https://data.unicef.org/resources/dataset/sowc-2019-statistical-tables/): This dataset from UNICEF includes a collection of tables that can be downloaded.
+<br>[CPS Labor Force Statistics](https://www.bls.gov/cps/tables.htm): This page contains links to several available datasets that you can explore.
+<br>[The Stanford Open Policing Project](https://openpolicing.stanford.edu/): This dataset can be downloaded as a .CSV file for your own use.
+
+## Pro Bono 
+Want to do some good while practicing your skills? Here's your chance:
+* [Datakind](https://www.datakind.org/)
+* [Data For Good](https://www.sas.com/en_us/data-for-good.html)
+* [Statistics Without Borders](https://www.statisticswithoutborders.org/)
+* [Omdena](https://omdena.com/)
+* [Fruit Punch AI](https://fruitpunch.ai/)
+* [Catch A Fire](https://www.catchafire.org/)
+
+
 # Internet Resources for Learning More about Data and Being a Data Professional
 ## Social Media
 ### Tik Tok Pages
