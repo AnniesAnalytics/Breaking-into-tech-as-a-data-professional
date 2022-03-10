@@ -335,6 +335,7 @@ First of all, I have actually a lot of files for you about R. They range from se
 
 # General Cheatsheets for Data Analytics/Science
 [100+ Data Science, Machine Learning, AI, & Deep Learning Cheet Sheet PDF's ](https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html?utm_content=198825352&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012)
+[The Complete Collection of Data Science Cheat Sheets – Part 1](https://www.kdnuggets.com/2022/02/complete-collection-data-science-cheat-sheets-part-1.html?fbclid=IwAR2ci6JK5NLR9NPVpDo69a1upriSx8nOas3xfgzE0jJMEr_rYvUpR1LSZpc)
 
 # Resources For Building a Portfolio and Job Searching :moneybag:
 ### Videos With Data Higher-Up's
