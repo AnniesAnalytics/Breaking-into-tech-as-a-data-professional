@@ -23,7 +23,7 @@ In this guide, I will go over the following topics. If you want to skip ahead to
 * [Tableau](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#tableaudata-visualization)
 * [Python](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#spreadsheets)
 * [R](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#r) 
-* General Cheatsheets 
+* [General Cheatsheets](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#general-cheatsheets-for-data-analyticsscience) 
 * [Resources For Building a Portfolio and Job Searching](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#r)
    * [Where to Find Data to Practice With](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#where-to-find-data-to-practice-with)
 * [Internet Resources for Learning More about Data and Being a Data Professional](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#internet-resources-for-learning-more-about-data-and-being-a-data-professional)
