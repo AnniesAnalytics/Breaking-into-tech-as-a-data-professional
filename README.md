@@ -102,6 +102,7 @@ Spreadsheets seem to me to be the foundation of working with data. So imagine a 
 <br> If you want to link a lot of concepts together and have someone *show* you how to do them, maybe a training is right for you:
 * [This is a video training of excel basics](https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb )
 * [Google sheets training and help, for beginner, intermediate, or advanced users](https://support.google.com/a/users/answer/9282959?visit_id=637361702049227170-1815413770&rd=1 )
+* [Excel for Analytics Playlist](https://www.youtube.com/playlist?list=PL_WHfGYyPRuOWqablvZAw3iJHUoIGk7F3): This playlist was put together by someone who has worked in the analytics industry for years. He is always happy to help people who are new. This series he takes on what he calls "a fairly realistic request".
 
 ## Spreadsheet Cheat Sheets
 Who *doesn't* love a good cheat sheet? I found quite a few:
