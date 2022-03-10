@@ -30,20 +30,20 @@ In this guide, I will go over the following topics. If you want to skip ahead to
 
 # Courses- Free and Paid
 Coming out of another field to try and break into tech is overwhelming. I am glad that I started with the Google Certificates course in Data Analytics, because it gave me a great foundation for starting out. Before you get started, you need to ask yourself honestly "what are my learning needs?". If you are someone who needs someone else to be giving you deadlines and keeping you on track, then a self-paced course may not be your best option. If you need to be able to talk to professors and work your way through questions, then one of the free/cheaper online courses where you work through a series of modules may not be your best option. If you, like me, are a self-directed learner who prefers to teach yourself and enjoys troubleshooting on your own, then the cheaper/free resources will be a good fit. Of course, your budget is important as well! 
-<br><br>
-## Free Courses
+## Free Courses :heart_eyes:
 ### Course Platforms
 I was surprised to find out how many free courses there are out there. Here is a list of some of the platforms where you can find numerous free courses:
-[Free Code Camp](https://www.freecodecamp.org/):
+[Free Code Camp](https://www.freecodecamp.org/): Their homepage has an impressive intro: "Learn to code — for free.
+Build projects. Earn certifications.... Since 2014, more than 40,000 freeCodeCamp.org graduates have gotten jobs at tech companies including (then they show the logos of Google, Microsoft, Spotify, and Amazon)"
 <br>[Free Courses From Harvard](https://discover.edx.org/xgs/cs50?g_acctid=724-505-4034&g_campaign=gs-b2c-nonbrand-us-can-partner-harvard-core&g_campaignid=14747888370&g_adgroupid=131268844967&g_adid=561845958166&g_keyword=harvard%20cs50&g_keywordid=kwd-334019831226&g_network=g&utm_source=google&utm_campaign=gs-b2c-nonbrand-us-can-partner-harvard-core&utm_medium=cpc&utm_term=harvard%20cs50&hsa_acc=7245054034&hsa_cam=14747888370&hsa_grp=131268844967&hsa_ad=561845958166&hsa_src=g&hsa_tgt=kwd-334019831226&hsa_kw=harvard%20cs50&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiA95aRBhCsARIsAC2xvfyqS0y_bBoX4krUzdBh8WIXwz2rMccMG8jsrwhUwgBsid6Jl0UZvIUaAgD_EALw_wcB):
-<br>[EdX](https://www.edx.org/search?q=SQL):
-<br>[Khan Academy](https://www.khanacademy.org/computing):
+<br>[EdX](https://www.edx.org/search?q=SQL): They have several different courses, whichever flavor floats your boat. I am really interested in taking their computer science course, but I have not decided about it yet. 
+<br>[Khan Academy](https://www.khanacademy.org/computing): I hear often in the comment sections of my videos from people who are taking Khan Academy courses and learning a lot from them. 
 <br>[Coursera](https://www.edx.org/search?q=SQL): Coursera is not free, but if you apply for financial aid, give a good reason, and wait a few weeks, you can get it free.
 <br>[COOP Careers](https://coopcareers.org/faq): Wait, a FREE Bootcamp? Yep! If you are from a minority group, live in a few key regions, and meet the other requirements, you can apply for this free bootcamp that will help you break into tech- learn the skills you need (technical and interpersonal)- to land a new job.
 <br>
-### Free Courses
-<br>EdX [excel courses](https://www.edx.org/learn/excel):
-<br>[AP Statistics](https://www.khanacademy.org/math/get-ready-for-ap-statistics) from Khan Academy:
+### Free Courses :free:
+<br>EdX [excel courses](https://www.edx.org/learn/excel): Do you want to learn Excel, especially because I am saying it is definitely the most foundational skill and the one you should start with? They've got you. 
+<br>[AP Statistics](https://www.khanacademy.org/math/get-ready-for-ap-statistics) from Khan Academy: I personally have not encountered a need for math so far on my journey to get into data analytics but people have told me that they took Khan Academy math courses and it was helpful? I think they might be in a related niche like computer science or software engineering or something but I do not know.
 <br>[Welcome to SQL](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql) with Khan Academy:
 <br>[Learn Python](https://docs.google.com/document/d/1QeZE92qQMW8QP6EH08DnEP5rcHwBowXwhqtALgDKPBw/edit) with Zero2Sudo:
 <br>[Introduction to Python](https://www.datacamp.com/courses/intro-to-python-for-data-science?utm_source=adwords_ppc&utm_medium=cpc&utm_campaignid=15913728168&utm_adgroupid=134009293124&utm_device=c&utm_keyword=dataquest&utm_matchtype=p&utm_network=g&utm_adpostion=&utm_creative=585907460107&utm_targetid=kwd-298518207486&utm_loc_interest_ms=&utm_loc_physical_ms=9003619&gclid=Cj0KCQiA95aRBhCsARIsAC2xvfzdHfN-JilN1R0wQTGOz2VGnQ_LObX4Ox1R7FWnoIxp_cQRfQsY1WUaAkrwEALw_wcB) with Datacamp: Datacamp is not free, but as of writing this, this course is. 
@@ -84,7 +84,7 @@ I am not going to give you a list of all of the programs and bootcamps out there
 # Up Next
 The rest of what I have to share in here is for those of us who are taking a "do it myself" approach. These are all of the links that I have been directed to in my courses, by other people, or found myself that I think are worth sharing. 
 
-# Spreadsheets
+# Spreadsheets :floppy_disk:
 Spreadsheets seem to me to be the foundation of working with data. So imagine a big old START HERE sign on this section. 
 <br> Do you need to just make sure you have the foundational skills, and want to learn the basics of working with Google Sheets? Here you go.
 * [Top 10 ways to clean your data ](https://support.google.com/a/users/answer/9604139?hl=en#zippy= )
@@ -159,7 +159,7 @@ I will be honest with you, I copy and pasted the following right from my course 
 # Boolean Operators
 If you have never heard of [Boolean Operators](https://libguides.mit.edu/c.php?g=175963&p=1158594), I guess you might think about skipping over this section. But! You actually should know about Boolean Operators and what each of them mean if you want to work with data. It is not a hard concept to understand, once it is explained to you. 
 
-# SQL
+# SQL :mag_right:
 SQL is, as I percieve it, the next most widely needed *thing* when working with data. Without any further ado, here is the free information I have to share:
 
 ### Files
@@ -202,7 +202,7 @@ This goes for SQL and all other things within the data analytics space:
 <br>Can’t get your code to work? Wondering “if….”? [Try Stack OverFlow](https://stackoverflow.com/). *The* spot for problem solving.  
 
 
-# Tableau/Data Visualization
+# Tableau/Data Visualization :chart_with_upwards_trend:
 It feels like it is totally switching gears when you suddenly start talking about visualizations. It really threw me off to go from "Ok, so the comma has to go HERE" to "What colors should I make the bars in this chart?". 
 <br> So far, I only have a couple of text files/decision trees that I think are really helpful and want to share with you about data visualizations/Tableau. [Click here](https://anniesanalytics.wixsite.com/annie-nelson/general-9) to go to my website where you can download these files (for free, of course, no weird software downloads or anything, I just can't add them to my page here easily). Scroll to "#4- Visualization Files"
 
@@ -250,7 +250,7 @@ I am not going to lie, every time I use Tableau so far, it is a lot of me just c
 <br><br>[This is an entire blog dedicated to data visualizaiton](https://www.tableau.com/learn/articles/best-data-visualization-blogs )
 
 
-# Python
+# Python :snake:
 I haven't learned Python yet, so I don't have much for you. But, I will add more when I do learn about it! Besdies the courses I linked you to above, all I have to add is [this tutorial](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners ) for beginners.
 
 <br><br> I also have some information about R vs Python. 
@@ -259,7 +259,7 @@ I haven't learned Python yet, so I don't have much for you. But, I will add more
 <br>[R versus Python](https://blog.rstudio.com/2019/12/17/r-vs-python-what-s-the-best-for-language-for-data-science/): What’s the best language for data science?: This blog article provides RStudio’s perspective on the R vs. Python debate.
 
 
-# R 
+# R :abc:
 R is a little more niche than these others- I would say do not start with R! But, look into jobs you may want. If you see R listed consistently, I hear it is commonly used in research (which the health field does a lot of), then here's some free stuff!
 ## Files
 First of all, I have actually a lot of files for you about R. They range from several long, informative readings which I still refer back to, to cheatsheets. [You can find them here](https://anniesanalytics.wixsite.com/annie-nelson/general-9). Scroll to "#5- R Files"
@@ -329,7 +329,7 @@ First of all, I have actually a lot of files for you about R. They range from se
 
 
 
-# Resources For Building a Portfolio and Job Searching
+# Resources For Building a Portfolio and Job Searching :moneybag:
 ### Videos With Data Higher-Up's
 [Portfolio and Resume Analysis with Data Science Hiring Managers](https://www.youtube.com/watch?v=cBbYhhH399c&list=PLqFaTIg4myu-npFrYu6cO7h7AI6bkcOlL&index=10  ): A video on youtube with hiring managers about the things that you need to be including in your portfolio and resume. 
 <br>[Kaggle Career Con](https://www.youtube.com/playlist?list=PLqFaTIg4myu-npFrYu6cO7h7AI6bkcOlL)- TONS of good info 
@@ -374,8 +374,8 @@ Want to do some good while practicing your skills? Here's your chance:
 * [Catch A Fire](https://www.catchafire.org/)
 
 
-# Internet Resources for Learning More about Data and Being a Data Professional
-## Social Media
+# Internet Resources for Learning More about Data and Being a Data Professional :computer:
+## Social Media :iphone:
 ### Tik Tok Pages
 python.chick
 <br> charlotte_chz
@@ -388,4 +388,4 @@ Learn SQL for beginners - complete course
 <br> SQL Tutorial - Full Database Course for Beginners
 <br> python for everyone chuck severance
 <br> Alex the Analyst
-#  Books about Working With Data
+#  Books about Working With Data :closed_book:
