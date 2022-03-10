@@ -28,7 +28,7 @@ In this guide, I will go over the following topics. If you want to skip ahead to
 * [Internet Resources for Learning More about Data and Being a Data Professional](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#internet-resources-for-learning-more-about-data-and-being-a-data-professional)
 * [Books about Working With Data](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#books-about-working-with-data)
 
-# Courses- Free and Paid
+# Courses- Free and Paid :ok_hand:
 Coming out of another field to try and break into tech is overwhelming. I am glad that I started with the Google Certificates course in Data Analytics, because it gave me a great foundation for starting out. Before you get started, you need to ask yourself honestly "what are my learning needs?". If you are someone who needs someone else to be giving you deadlines and keeping you on track, then a self-paced course may not be your best option. If you need to be able to talk to professors and work your way through questions, then one of the free/cheaper online courses where you work through a series of modules may not be your best option. If you, like me, are a self-directed learner who prefers to teach yourself and enjoys troubleshooting on your own, then the cheaper/free resources will be a good fit. Of course, your budget is important as well! 
 ## Free Courses :heart_eyes:
 ### Course Platforms
