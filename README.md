@@ -116,7 +116,7 @@ Who *doesn't* love a good cheat sheet? I found quite a few:
 
 ## Files for Further Reading
 There is some readings that I have found to be so useful, that I saved the entire thing. However, it would be impractical to just paste all of that information into here, and I cannot add a file for you to download. So my workaround is I have added a page on my website where I can have files which you can download. I am going to add each of the following information filled files there, and so just [click this link](https://anniesanalytics.wixsite.com/annie-nelson/general-9) to go to the page where I am going to link to all of the following files. 
-<br> Go to where I have labeled "#2- Spreadsheets Files" to find these files.
+<br> Go to where I have labeled "#1- Spreadsheets Files" to find these files.
 * How to use VLOOKUP in Sheets/Excel
 * Data cleaning functions in spreadsheets
 * How to access your changelog of your spreadsheet
@@ -168,7 +168,7 @@ If you have never heard of [Boolean Operators](https://libguides.mit.edu/c.php?g
 SQL is, as I perceive it, the next most widely needed *thing* when working with data. Without any further ado, here is the free information I have to share:
 
 ### Files
-Here is a list of all of the files that are either very helpful PDF's, or an informational reading that I thought was so helpful that I just had to save it. To get access to these files, just [click this link](https://anniesanalytics.wixsite.com/annie-nelson/general-9), and then scroll to where it says "#3- SQL Resources" (I cannot add them to this page, wish I could!)
+Here is a list of all of the files that are either very helpful PDF's, or an informational reading that I thought was so helpful that I just had to save it. To get access to these files, just [click this link](https://anniesanalytics.wixsite.com/annie-nelson/general-9), and then scroll to where it says "#2- SQL Resources" (I cannot add them to this page, wish I could!)
 * CONCAT and variations of CONCAT in SQL
 * 3 pages of SQL cheatsheets
 * Intermediate Guide to SQL
@@ -209,7 +209,7 @@ This goes for SQL and all other things within the data analytics space:
 
 # Tableau/Data Visualization :chart_with_upwards_trend:
 It feels like it is totally switching gears when you suddenly start talking about visualizations. It really threw me off to go from "Ok, so the comma has to go HERE" to "What colors should I make the bars in this chart?". 
-<br> So far, I only have a couple of text files/decision trees that I think are really helpful and want to share with you about data visualizations/Tableau. [Click here](https://anniesanalytics.wixsite.com/annie-nelson/general-9) to go to my website where you can download these files (for free, of course, no weird software downloads or anything, I just can't add them to my page here easily). Scroll to "#4- Visualization Files"
+<br> So far, I only have a couple of text files/decision trees that I think are really helpful and want to share with you about data visualizations/Tableau. [Click here](https://anniesanalytics.wixsite.com/annie-nelson/general-9) to go to my website where you can download these files (for free, of course, no weird software downloads or anything, I just can't add them to my page here easily). Scroll to "#3- Visualization Files"
 
 ## Tableau Basics
 [This video](https://public.tableau.com/en-us/s/resources) is a great starting place. It is divided into sections so you can skip to what you need if you want.  
