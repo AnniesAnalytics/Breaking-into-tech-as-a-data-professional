@@ -17,17 +17,17 @@ I do not have the answers to all of these questions. But- as of writing this I h
 
 ## Table of Contents
 In this guide, I will go over the following topics. If you want to skip ahead to a specific one, click on it and you will be brought there! (Neat trick I learned)
-* [Courses- Free and Paid](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#courses--free-and-paid)
-* [Spreadsheets](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#spreadsheets)
-* [SQL](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#spreadsheets)
-* [Tableau](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#tableaudata-visualization)
-* [Python](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#spreadsheets)
-* [R](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#r) 
+* [Courses- Free and Paid](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#courses--free-and-paid-ok_hand)
+* [Spreadsheets](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#spreadsheets-floppy_disk)
+* [SQL](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#sql-mag_right)
+* [Tableau](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#tableaudata-visualization-chart_with_upwards_trend)
+* [Python](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#python-snake)
+* [R](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#r-abc) 
 * [General Cheatsheets](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#general-cheatsheets-for-data-analyticsscience) 
-* [Resources For Building a Portfolio and Job Searching](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#r)
+* [Resources For Building a Portfolio and Job Searching](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#resources-for-building-a-portfolio-and-job-searching-moneybag)
    * [Where to Find Data to Practice With](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#where-to-find-data-to-practice-with)
-* [Internet Resources for Learning More about Data and Being a Data Professional](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#internet-resources-for-learning-more-about-data-and-being-a-data-professional)
-* [Books about Working With Data](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#books-about-working-with-data)
+* [Internet Resources for Learning More about Data and Being a Data Professional](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#internet-resources-for-learning-more-about-data-and-being-a-data-professional-computer)
+* [Books about Working With Data](https://github.com/AnniesAnalytics/Breaking-into-tech-as-a-data-professional/blob/main/README.md#books-about-working-with-data-closed_book)
 
 
 # Courses- Free and Paid :ok_hand:
