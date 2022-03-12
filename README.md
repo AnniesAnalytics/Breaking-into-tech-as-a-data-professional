@@ -281,6 +281,7 @@ First of all, I have actually a lot of files for you about R. They range from se
 * Ways to learn about programming
 * Juptyr Notebooks
 * R Functions Learned in the Google Course (with examples)
+* Creating a new R MarkDown File Actity (hands on instructions)
 
 ## The Basics
 ### How to
