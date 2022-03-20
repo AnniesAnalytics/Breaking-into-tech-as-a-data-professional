@@ -53,7 +53,9 @@ Build projects. Earn certifications.... Since 2014, more than 40,000 freeCodeCam
 <br>[SQL for  Datascience](https://www.edx.org/course/sql-for-data-science?index=product&queryID=66c46048231a4f800d043b854ad2b100&position=2): with EdX
 <br>[Practice SQL with SQL Server](https://sqlpal.thinkific.com/): This is a free course made by one of the girls in my Tik Tok network- Kenzie @Sql.pal
 <br> [Break into tech with Data Analytics](https://breakintotech.teachable.com/p/freebies-1?fbclid=IwAR0hiOJ9PcN0Ag7mLqj3DB6nrSh49oOOtn8zYqN_Dxa734z8OaEQxVSsYVs): This course is offered by a popular TikTokker- Charlotte @Charlotte_chz . She has over 100k followers and talks openly about how she job hopped from $28k to over $150 in 5 years, and what it's like to be a data analyst. She has a free and paid version, this one is the free version. 
+<br> [This Twitter user](https://twitter.com/PythonWithRune/status/1504533216211910657?s=20&t=8JGndziqNpXuDPzibcrqlQ) made a post about free courses for breaking into data science.
 <br><br> [Elements of AI](https://www.elementsofai.com/):  ok, so this is not a beginner course. Do not start here. But it's free, so it's going in. 
+
 
 ### Tutorials
 There are probably thousands of tutorials on the internet (for free). I have not looked at all of them. However, these few were suggested to me by people who tried and liked them, and they seem like they would be helpful for beginners. If you watch one, remember to give their video a like! Will take you a millisecond- but you actually contribute to their popularity and help them get paid by engaging positively like that. It is a little gift I try to give to every creator whose content I enjoy. 
