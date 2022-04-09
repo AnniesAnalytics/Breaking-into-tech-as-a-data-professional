@@ -369,7 +369,7 @@ Open Data! Here are some places to find real data that you can get your hands on
 Public health datasets
 <br>[Global Health Observatory data](https://www.who.int/data/collections): You can search for datasets from this page or explore featured data collections from the World Health Organization.  
 <br>[The Cancer Imaging Archive (TCIA) dataset](https://cloud.google.com/healthcare/docs/resources/public-datasets/tcia): Just like the earlier dataset, this data is hosted by the Google Cloud Public Datasets and can be uploaded to BigQuery.
-<br>[1000 Genomes](1000 Genomes): This is another dataset from the Google Cloud Public resources that can be uploaded to BigQuery. 
+<br>[1000 Genomes](https://cloud.google.com/life-sciences/docs/resources/public-datasets/1000-genomes): This is another dataset from the Google Cloud Public resources that can be uploaded to BigQuery. 
 <br><br>Public climate datasets
 <br>[National Climatic Data Center](https://www.ncdc.noaa.gov/data-access/quick-links): The NCDC Quick Links page has a selection of datasets you can explore. 
 <br>[NOAA Public Dataset Gallery](https://www.climate.gov/maps-data/datasets): The NOAA Public Dataset Gallery contains a searchable collection of public datasets.
