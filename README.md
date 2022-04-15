@@ -239,7 +239,7 @@ One thing that can be intimidating when you are new to this stuff, is trying to 
 <br>How should I visualize my data? [This might help](https://datavizcatalogue.com/#google_vignette )- it shows examples of each and helps you make decisions
 <br>[Which chart or graph is right for you](https://www.tableau.com/sites/default/files/media/which_chart_v6_final_0.pdf)?  
 <br>[Ultimate cheat sheet on Tableau charts ](https://towardsdatascience.com/the-ultimate-cheat-sheet-on-tableau-charts-642bca94dde5)
-<br>[How to choose which way to visualize your data] (https://public.tableau.com/app/profile/andy.kriebel/viz/VisualVocabulary/VisualVocabulary)
+<br>[How to choose which way to visualize your data](https://public.tableau.com/app/profile/andy.kriebel/viz/VisualVocabulary/VisualVocabulary)
 
 ## How to Create Different Charts
 I am not going to lie, every time I use Tableau so far, it is a lot of me just clicking buttons and moving things around, hoping it will do what I want. Be smarter than me. Read these resources. They're free.
