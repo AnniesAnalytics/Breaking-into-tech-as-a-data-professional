@@ -179,6 +179,11 @@ Here is a list of all of the files that are either very helpful PDF's, or an inf
 * Writing SQL Subfunctions
 * SQL Best Practices
 
+## Practice SQL
+You can play fun online games where you get to practice your SQL skills! 
+[Murder Mystery] (https://mystery.knightlab.com/)
+[SQL Island] (https://sql-island.informatik.uni-kl.de/)
+
 ## SQL Basics 
 <br>[What is SQL?](https://www.sqltutorial.org/what-is-sql/ ) Basics. 
 This site also goes through tutorials on a lot of common SQL functions. 
