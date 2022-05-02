@@ -372,6 +372,8 @@ Open Data! Here are some places to find real data that you can get your hands on
 * [Big Query](https://cloud.google.com/bigquery/public-data)
 * [Climate Data](https://www.climate.gov/maps-data/all?listingMain=datasetgallery) 
 * [Climate/Weather](https://www.ncei.noaa.gov/weather-climate-links )
+* [FiveThirtyEight's Data Behind Their Stories](https://data.fivethirtyeight.com/)
+* [BuzzFeed New's Datasets](https://github.com/BuzzFeedNews/everything)
 
 Public health datasets
 <br>[Global Health Observatory data](https://www.who.int/data/collections): You can search for datasets from this page or explore featured data collections from the World Health Organization.  
