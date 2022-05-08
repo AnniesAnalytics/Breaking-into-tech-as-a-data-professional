@@ -365,7 +365,7 @@ First of all, I have actually a lot of files for you about R. They range from se
 
 ## Where to Find Data to Practice With
 Open Data! Here are some places to find real data that you can get your hands on to practice with.
-* [Tidy Tuesday] (https://github.com/rfordatascience/tidytuesday/tree/master/data/2019)
+* [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019)
 * [Google cloud](https://cloud.google.com/solutions/datasets)
 * [Google Research Datasets](https://datasetsearch.research.google.com/)
 * [Kaggle](https://www.kaggle.com/datasets)
