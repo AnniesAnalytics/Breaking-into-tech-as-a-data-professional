@@ -221,6 +221,7 @@ It feels like it is totally switching gears when you suddenly start talking abou
 <br> So far, I only have a couple of text files/decision trees that I think are really helpful and want to share with you about data visualizations/Tableau. [Click here](https://anniesanalytics.wixsite.com/annie-nelson/general-9) to go to my website where you can download these files (for free, of course, no weird software downloads or anything, I just can't add them to my page here easily). Scroll to "#3- Visualization Files"
 
 ## Tableau Basics
+[My Tableau CheatSheet](https://www.linkedin.com/feed/update/urn:li:activity:6950033793013469184/): I took a [Maven Analytics Course](https://www.mavenanalytics.io/course/intro-tableau-desktop) that I loved, and it gave me ALL the basics I could possibly need to know about Tableau. I made a cheatsheet of all of my notes of what I learned in the course.
 [This video](https://public.tableau.com/en-us/s/resources) is a great starting place. It is divided into sections so you can skip to what you need if you want.  
 <br>[Explainations](https://help.tableau.com/current/pro/desktop/en-us/actions_filter.htm ) of how/why to use filters.
 
@@ -236,6 +237,7 @@ Here are some beautiful examples of all the ways you could go with your visualiz
 
 ## Planning
 One thing that can be intimidating when you are new to this stuff, is trying to decide which kind of graph or chart you should use to best visualize your data. Here are some resources that can help you along the planning stages.
+<br>[This Explaination](https://duelingdata.blogspot.com/2019/01/5-types-of-dashboards.html) about different dashboard types.
 <br>[This ebook](https://s3.amazonaws.com/looker-elearning-resources/Requirements+Gathering+Worksheet.pdf ) provides you with questions that will help you when looking at your data and trying to figure out your relevant stakeholders and their needs- which guides how you design your dashboard
 <br>How should I visualize my data? [This might help](https://datavizcatalogue.com/#google_vignette )- it shows examples of each and helps you make decisions
 <br>[Which chart or graph is right for you](https://www.tableau.com/sites/default/files/media/which_chart_v6_final_0.pdf)?  
